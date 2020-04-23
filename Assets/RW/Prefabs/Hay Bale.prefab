@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4729197560888370672}
   - component: {fileID: 4729197560888370639}
   - component: {fileID: 4729197560888370638}
+  - component: {fileID: 2887671486974771827}
   - component: {fileID: 4722766421834329969}
   m_Layer: 0
   m_Name: Hay Bale
@@ -77,6 +78,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotationSpeed: {x: 0, y: 0, z: 10}
+--- !u!114 &2887671486974771827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4729197560888370637}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49e91f3926a37b14a9a968261e10c9f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &4722766421834329969
 MonoBehaviour:
   m_ObjectHideFlags: 0
